@@ -1,4 +1,4 @@
-# 4skst_dataset
+#  4 Sketch Style (4SKST) 
 **This dataset can only be used for research purpose**
 
 <p align="center">
