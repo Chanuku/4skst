@@ -1,9 +1,12 @@
 # 4skst_dataset
 **This dataset can only be used for research purpose**
 
-<img src="dataset.png" width="400px"/>
+<p align="center">
+    <img src="dataset.png" width="400px"/>     
+    <img src="dataset2.png" width="400px"/>
+</p>
 
-<img src="dataset2.png" width="400px"/>
+
 
 
 This repository is description of 4 sketch style (4SKST) dataset, from the research paper "Semi-supervised reference-based sketch extraction using a contrastive learning framework"
